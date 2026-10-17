@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/emmanouela-papa-logo.svg"
+ },
+ "source_md5": "8413d5f724c2aeed650aceb1b607ff8d",
+ "version": "355d2d74",
+ "tile": "#FFFFFF",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/emmanouela-papa-logo.svg",
+  "8413d5f724c2aeed650aceb1b607ff8d"
+ ],
+ "made": "2026-10-17"
+}
